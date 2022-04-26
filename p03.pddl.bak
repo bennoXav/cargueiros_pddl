@@ -17,8 +17,6 @@
 	(not (container_livre cb))
 	(container_livre cc)
 	
-	(cnn ca n01)
-	(cnn cb n01)
 	(cnn cc n01)
 	
 	

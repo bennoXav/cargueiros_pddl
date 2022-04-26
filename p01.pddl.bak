@@ -21,6 +21,10 @@
 	
 	(cno_Porto cc pc)
 	
+	
+	
+	
+	
 	(existeRota pa pb)
 	(= (distancia pa pb) 5)
 	(existeRota pb pc)

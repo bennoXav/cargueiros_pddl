@@ -8,7 +8,7 @@
 (:init 
 	(nno_Porto n01 pa)
 	
-	;;pilha de containers no barco [cb, cc, cd, ce]
+	;;pilha de containers no barco [cb, cc, ce]
 	(containerNoNavio cb n01)
 	(baseOcupada n01)
 	(not (container_livre cb))

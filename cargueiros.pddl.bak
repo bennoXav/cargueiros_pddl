@@ -64,8 +64,6 @@
 				and (container_livre ?container)
 					(cEmCimaDe ?container ?containerL)
 					(nno_Porto ?navio ?porto)
-					(cnn ?container ?navio)
-					(cnn ?containerL ?navio)
 					
 				)
 				:effect (
